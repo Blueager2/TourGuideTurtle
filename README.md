@@ -1,9 +1,7 @@
 # TourGuideVanilla
 *Tekkub's TourGuide Addon backported for WoW 1.12 modified for Turtle WoW
 
-[**Download Latest Version**](https://github.com/Blueager2/TourGuideTurtle/archive/refs/heads/master.zip)
-
-Rename folder to TourGuideVanilla
+[**Download Latest Version**](https://github.com/Blueager2/TourGuideTurtle/archive/refs/heads/master.zip) (Rename folder to TourGuideVanilla)
 
 Highly Recommended Downloads: [**pfQuest**](https://gitlab.com/shagu/pfQuest#downloads) | [**TomTomVanilla**](https://github.com/cralor/TomTomVanilla/releases/latest)
 

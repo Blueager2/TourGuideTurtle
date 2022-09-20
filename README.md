@@ -1,7 +1,7 @@
 # TourGuideVanilla
 *Tekkub's TourGuide Addon backported for WoW 1.12 modified for Turtle WoW
 
-[**Download Latest Version**](https://github.com/Blueager2/TourGuideTurtle/releases/tag/alpha)
+[**Download Latest Version**](https://github.com/Blueager2/TourGuideTurtle.git)
 
 Highly Recommended Downloads: [**pfQuest**](https://gitlab.com/shagu/pfQuest#downloads) | [**TomTomVanilla**](https://github.com/cralor/TomTomVanilla/releases/latest)
 
